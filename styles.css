@@ -1,11 +1,15 @@
-a{
+#menu-bar a{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration: none;
     background-color: bisque;
     padding: 3px;
 }
 
-a:hover{
+#menu-bar a:hover{
     background-color: palegoldenrod;
     color: tomato;
+}
+
+#content a{
+    text-decoration: none;
 }

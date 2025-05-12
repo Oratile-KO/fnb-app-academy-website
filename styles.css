@@ -1,0 +1,13 @@
+h1{
+    color: rgb(255, 0, 140);
+    font-family: cursive;
+}
+
+p{
+    color: rgb(0, 255, 0);
+    font-family: fantasy;
+}
+
+ul{
+    list-style-image: url(images/pointer-icon.png);
+}
